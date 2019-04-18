@@ -1,4 +1,5 @@
 -- Assignment 9 Question 1
+-- Kyle George
 ALTER TRIGGER TRIGGERONE
 ON Assignment
 FOR UPDATE, INSERT

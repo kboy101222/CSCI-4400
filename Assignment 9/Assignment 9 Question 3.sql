@@ -1,4 +1,5 @@
--- Assignment 9 Question 3 
+-- Assignment 9 Question 3
+-- Kyle George
 ALTER TRIGGER TRIGGERTHREE
 ON Project
 FOR INSERT, UPDATE

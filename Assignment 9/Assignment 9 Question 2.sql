@@ -1,4 +1,5 @@
 -- Assignment 9 Question 2
+-- Kyle George
 CREATE TRIGGER TRIGGERTWO
 ON Assignment
 FOR INSERT, UPDATE
